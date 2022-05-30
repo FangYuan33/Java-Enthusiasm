@@ -1,5 +1,5 @@
 ## 1. 书接上回
-大家好，我是`方圆`，上一篇帖子[从根上理解Mybatis的一级、二级缓存（一）]() 写了一级缓存，这篇写二级缓存，彻底搞明白就得了！
+大家好，我是`方圆`，上一篇帖子[从根上理解Mybatis的一级、二级缓存（一）](https://github.com/FangYuan33/Java-Enthusiasm/blob/main/src/main/java/article2021/month12/从根上理解Mybatis的一级、二级缓存（一）.md) 写了一级缓存，这篇写二级缓存，彻底搞明白就得了！
 
 ---
 ## 2. 准备工作
